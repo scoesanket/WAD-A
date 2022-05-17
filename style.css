@@ -1,0 +1,51 @@
+.header {
+    height: 100vh;
+}
+
+
+.logo {
+    height: 50px;
+    padding: 1px;
+}
+
+.navbar-style {
+    box-shadow: 0 5px 10px black;
+}
+
+li a {
+    color: gray;
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+.bigtext {
+    color: gray;
+    font-size: 50px;
+    margin: 10px 0;
+}
+
+a.btn {
+    margin: 30px 10px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+
+a.btn-first {
+    background: gray;
+    color: white;
+}
+
+a.btn-second {
+    background: transparent;
+    border: 1px solid gray;
+}
+
+.main {
+    margin-top: 80px;
+}
+
+.textdiv {
+    margin-top: 50px;
+}
